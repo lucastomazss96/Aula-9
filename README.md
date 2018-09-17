@@ -1,4 +1,4 @@
-# Econometria Avançada - Aula 9 - 
+# Econometria Avançada - Aula 9 - Diagnóstico de Resíduos
 * Arquivos e códigos feitos pelo professor;
 * Resultados dos códigos;
 * Slides da aula;
