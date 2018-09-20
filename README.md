@@ -1,5 +1,2 @@
-# Econometria Avançada - Aula 9 - Diagnóstico de Resíduos (Parte 2)
-* Arquivos e códigos feitos pelo professor;
-* Resultados dos códigos;
-* Slides da aula;
-* Obs: Anotações feitas nos códigos; arquivos criados durante o processo serão subidos para cá.
+# 9_Diagnosticos-de-Residuos
+Testes LM, RESET e ARCH-LM
